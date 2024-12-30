@@ -18,6 +18,20 @@ The challenge is to provide a streamlined and actionable analysis of these metri
 
 ## 📋 Executive Summary  
 ![screenshots/executive_summary.png](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/executive_summary.PNG)  
+This performance report shows concerning trends for GOODCABS from January to June 2024:
+
+1. Despite generating ₹108.19M in fare revenue, key metrics show decline:
+- Total trips dropped by 0.7% (425.9K trips)
+- New passenger acquisition down 4.4% (177K new passengers)
+- Average passenger rating decreased 3.9% to 7.7/10
+
+2. Operating metrics:
+- Average fare: ₹254 per trip
+- Revenue per kilometer: ₹13
+- Average trip distance: 19.1 km
+- Total distance covered: 8.1M km
+
+The declining trip volume and passenger ratings combined with falling new user acquisition suggest the company needs to focus on service quality and customer retention. 
 
 ### 🔍 Key Findings  
 - **Repeat Passenger Paradox**: Cities like Surat and Lucknow had repeat rates exceeding **40%**, despite having the **lowest satisfaction scores**.  
