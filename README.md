@@ -13,7 +13,7 @@ The challenge is to provide a streamlined and actionable analysis of these metri
 ---
 
 ## 📋 Executive Summary  
-![Executive Summary](screenshots/executive_summary.png)  
+![screenshots/executive_summary.png](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/executive_summary.PNG)  
 
 ### 🔍 Key Findings  
 - **Repeat Passenger Paradox**: Cities like Surat and Lucknow had repeat rates exceeding **40%**, despite having the **lowest satisfaction scores**.  
@@ -23,7 +23,7 @@ The challenge is to provide a streamlined and actionable analysis of these metri
 ---
 
 ## 📊 Detailed Analysis  
-![KPI Breakdown by City](screenshots/kpi_by_city.png)  
+![[KPI Breakdown by City](screenshots/kpi_by_city.png)](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/kpi_by_city.PNG)
 
 ### Top Insights by Metric  
 1. **Top Performing Cities**:  
