@@ -23,8 +23,8 @@ The challenge is to provide a streamlined and actionable analysis of these metri
 ---
 
 ## 📊 Detailed Analysis  
-![[KPI Breakdown by City](screenshots/kpi_by_city.png)](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/kpi_by_city.PNG)
-
+![KPI Breakdown by City](screenshots/kpi_by_city.png)](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/kpi_by_city.PNG)
+![No. of Trips Trend Chart](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/trend.PNG)
 ### Top Insights by Metric  
 1. **Top Performing Cities**:  
    - **Jaipur, Lucknow, and Surat** recorded the highest trip volumes.  
