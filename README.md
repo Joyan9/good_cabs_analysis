@@ -9,6 +9,10 @@ To achieve its growth goals and enhance passenger satisfaction by 2024, the mana
 - **Balance Between New and Repeat Passengers**  
 
 The challenge is to provide a streamlined and actionable analysis of these metrics to the Chief of Operations for data-driven decision-making.  
+### 🌟 Resources  
+- [Interactive Dashboard](https://lookerstudio.google.com/reporting/037d8935-7ebd-4f65-a9a8-3d5a73cd2b6e)  
+- [Full Report](https://www.canva.com/design/DAGXAZ2cpQM/U30aWJZ7REAiR00pceLXNA/view)  
+- [Video Presentation](https://www.youtube.com/watch?v=gpTYg58Ojyg)  
 
 ---
 
@@ -23,9 +27,9 @@ The challenge is to provide a streamlined and actionable analysis of these metri
 ---
 
 ## 📊 Detailed Analysis  
-![[KPI Breakdown by City](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/kpi_by_city.PNG)]
+![KPI Breakdown by City](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/kpi_by_city.PNG)
 
-![[No. of Trips Trend Chart](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/trend.PNG)]
+![No. of Trips Trend Chart](https://github.com/Joyan9/good_cabs_analysis/blob/main/screenshots/trend.PNG)
 ### Top Insights by Metric  
 1. **Top Performing Cities**:  
    - **Jaipur, Lucknow, and Surat** recorded the highest trip volumes.  
